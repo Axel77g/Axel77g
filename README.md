@@ -18,15 +18,112 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axel77g&count_private=true&theme=github_dark&show_icons=true)
 
 
-### Languages and Tools: 
+<div style="display: flex">
+  <div
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://user-images.githubusercontent.com/78684032/122961185-719a1800-d384-11eb-906a-3854e856537b.png"
+      width="20"
+      height="20"
+    />
+    JavaScript
+  </div>
+  <div
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://user-images.githubusercontent.com/78684032/148371700-2fc681c8-d374-4952-a9ab-005e280d948a.png"
+      width="20"
+      height="20"
+    />
+    NextJS
+  </div>
+  <div
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://user-images.githubusercontent.com/78684032/122961496-bcb42b00-d384-11eb-9ed9-d28ebe488d52.png"
+      width="20"
+      height="20"
+    />
+    ReactJS
+  </div>
+  <div
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
+      width="20"
+      height="20"
+    />
+    Vue JS
+  </div>
 
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <div
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://user-images.githubusercontent.com/78684032/122961755-fdac3f80-d384-11eb-9ab8-90f6862bedb8.png"
+      width="20"
+      height="20"
+    />
+    NodeJS
+  </div>
+  <div
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://user-images.githubusercontent.com/78684032/122961805-0bfa5b80-d385-11eb-9d91-902a3c1c4c35.png"
+      width="20"
+      height="20"
+    />
+    Express
+  </div>
+  <div
+    style="
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    "
+  >
+    <img
+      src="https://user-images.githubusercontent.com/78684032/122962030-4bc14300-d385-11eb-9e93-85680a25a6d6.png"
+      width="20"
+      height="20"
+    />
+    Heroku
+  </div>
+</div>
+
