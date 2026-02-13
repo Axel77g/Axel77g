@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-# 💻 Developer Stack
 
 ## 🧠 Languages
 
