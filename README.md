@@ -43,4 +43,4 @@
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab)](https://gitlab.com/axel.gdf)
 
 
-![stats](https://git-lab-stats-628572920512.europe-west1.run.app/?user=axel.gdf)
+![statsv2](https://git-lab-stats-628572920512.europe-west1.run.app/?user=axel.gdf)
