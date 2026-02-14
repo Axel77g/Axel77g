@@ -38,3 +38,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=Axel77g)
 
+### 🔧 Autres contributions
+
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab)](https://gitlab.com/axel.gdf)
+
