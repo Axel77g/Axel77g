@@ -36,7 +36,7 @@
 
 ## 📈 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=Axel77g)
+![Streak](https://streak-stats.demolab.com?user=Axel77g&t)
 
 ### 🔧 Autres contributions
 
